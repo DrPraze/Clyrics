@@ -1,2 +1,2 @@
-# Slakenet
-Slakenet website built with python flask, project was abandoned to be built with nodejs
+# Clyrics
+Free tool to generate lyrics based on your favorite artist's songs. Powered by markov chain
