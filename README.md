@@ -1,2 +1,2 @@
-# Clyrics
-Generate lyrics similar to your favorite artists' songs powered by markov chains
+# Slakenet
+Slakenet website built with python flask, project was abandoned to be built with nodejs
